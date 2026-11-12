@@ -1,1 +1,1 @@
-https://keaper7.github.io/posmotri-v-okno-ad/
+https://github.com/keaper7/posmotri-v-okno-ad
